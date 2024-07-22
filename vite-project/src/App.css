@@ -1,0 +1,27 @@
+.title{
+     color:#FFFFFF;
+     background: #F55A5A;
+     padding: 10px 550px;
+}
+.heading{
+    font-family: Inter;
+    font-size: 14.46px;
+    font-weight: 500;
+
+}
+.card-list{
+    display: flex;
+    padding: 50px 40px;
+}
+.information{
+    padding: 20px;
+}
+a{
+    color: #918E9B;
+    margin-left: 20px;
+}
+.country{
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 0.17em;
+}
